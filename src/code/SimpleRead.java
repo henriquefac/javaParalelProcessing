@@ -43,4 +43,5 @@ public class SimpleRead {
         scanner.close();  // Fecha o scanner após terminar a leitura
         return palavras.toArray(new String[0]); // Retorna o texto em minúsculas
     }
+    
 }

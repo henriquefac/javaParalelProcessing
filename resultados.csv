@@ -1,0 +1,12 @@
+Arquivo,Tipo,Tempo de Processamento (ns)
+DonQuixote-388208.txt,serialCPU,343671100
+DonQuixote-388208.txt,parallelCPU,293444500
+DonQuixote-388208.txt,parallelGPU,419406600
+
+Dracula-165307.txt,serialCPU,72906301
+Dracula-165307.txt,parallelCPU,44787401
+Dracula-165307.txt,parallelGPU,33777301
+
+MobyDick-217452.txt,serialCPU,49706801
+MobyDick-217452.txt,parallelCPU,123143100
+MobyDick-217452.txt,parallelGPU,51136800
